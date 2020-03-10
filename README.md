@@ -94,7 +94,7 @@ For this project, I mainly use `HallofFame`, `Master`, `Batting` table for analy
 
 I followed the below approach to do the analysis. Due to limit time, I was unable to analyze very deep nor could I go through every detail. But the logic is the same as what I showed below.
 
-![](README.assets/1*oU3LAye3LxFcHg0UePmbSA-20200310104445258.png)
+![](https://hackernoon.com/hn-images/1*oU3LAye3LxFcHg0UePmbSA.png)
 
 Picture Source: [hackernoon](https://hackernoon.com/)
 
