@@ -1,6 +1,6 @@
 # MLB-Baseball-Hall-Of-Fame
 
-
+check out my post： https://xiangkechen.github.io/2020/03/15/MLB-Baseball-Hall-of-Fame-Prediction/
 
 ## Background
 
